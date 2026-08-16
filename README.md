@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was completed as part of the **AnalystLab Africa Data Analytics Internship — Week 2**.
+This project was completed as part of the **AnalystLab Africa Data Analytics Internship - Week 2**.
 
 The project uses the **Superstore Sales Dataset** to analyse sales performance, profitability, customer segments, product categories, regional performance, and sales trends over time.
 
